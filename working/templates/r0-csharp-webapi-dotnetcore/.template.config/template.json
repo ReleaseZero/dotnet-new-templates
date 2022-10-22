@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Chris Gundersen",
+  "classifications": [ "Common", "Web API" ],
+  "identity": "ReleaseZero.CSharp.WebApi",
+  "name": "Release Zero template: C# Web API with .Net Core",
+  "shortName": "r0-csharp-webapi-dotnetcore",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
